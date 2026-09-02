@@ -34,7 +34,7 @@ I design and build reliable AI systems from agentic pipelines and RAG architectu
 ## 📄 Research
 
 **First-author publication** — *"Exploring a biocentric LLM-based assistant in environmental decision-making with more-than-human representation of the Tagus Estuary"*  
-→ [Discovery Sustainability, Springer Nature (2025)](https://link.springer.com/article/10.1007/s43621-025-02474-1) *1,716+ accesses*
+→ [Discovery Sustainability, Springer Nature (2026)](https://link.springer.com/article/10.1007/s43621-025-02474-1) *1,716+ accesses*
 
 ---
 
