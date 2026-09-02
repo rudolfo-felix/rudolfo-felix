@@ -18,27 +18,28 @@ I design and build reliable AI systems — from agentic pipelines and RAG archit
 
 ## 🧠 Tech Stack
 
-- **Languages:** `Python` `TypeScript` `SQL` `Node.js`
-- **GenAI & Agentic Systems:** `LangGraph` `LangChain` `LlamaIndex` `Claude` `OpenAI`
+- **Languages:** `Python (8+ yrs)` `TypeScript` `SQL (6 yrs)` `Node.js`
+- **GenAI & Agentic Systems (3+ yrs):** `LangGraph` `LangChain` `LlamaIndex` `Claude` `OpenAI`
 - **LLMOps & Tooling:** `RAGAS` `LangFuse` `Crawl4AI` `Pydantic`
-- **Data & Vector Stores:** `Neo4j` `pgvector` `ChromaDB` `Supabase`
-- **Cloud (AWS) & DevOps:** `CDK` `ECS` `Lambda` `Bedrock` `DynamoDB` `Docker`
-- **Frontend Frameworks:** `Svelte` `React`
+- **Data & Vector Stores (3+ yrs):** `Neo4j` `pgvector` `ChromaDB` `Supabase`
+- **Cloud (AWS) & DevOps (4-5 yrs):** `CDK` `ECS` `Lambda` `Bedrock` `DynamoDB` `Docker`
+- **Frontend Frameworks (6 yrs):** `Svelte` `React`
 
 ---
 
 ## 📄 Research
 
 **First-author publication** — *"Exploring a biocentric LLM-based assistant in environmental decision-making with more-than-human representation of the Tagus Estuary"*  
-→ [Discovery Sustainability, Springer Nature (2025)](https://link.springer.com/article/10.1007/s43621-025-02474-1)
+→ [Discovery Sustainability, Springer Nature (2025)](https://link.springer.com/article/10.1007/s43621-025-02474-1) — *(1,716+ accesses)*
 
 ---
 
 ## 🌍 Selected work
 
-- **Capgemini x Volkswagen** — Production GenAI commercial EV sales platform across 7 EU markets (GB, DE, BE, FR, IT, ES, PL): 5 national lead enrichment registry integrations, multi-language RAG argumentation, ESG pipelines on 15+ AWS CDK stacks. 95.2% prompt extraction completeness; 94% test coverage.
-- **ITI / LARSyS** — Led solo development of multi-language, multi-modal agentic LLM apps for a 6-country industry-academic consortium (PT, NL, SE, DE, BE, IT). 100+ users, 70+ research participants, Springer Nature paper.
-- **AI-first startup** (Técnico Lisboa Spin-off, stealth) — Sole AI architect; 2 PoCs to production MVP in 6 months; post-pivot MVP achieved strongest commercial traction to date.
+- **Capgemini x Volkswagen** — Production GenAI commercial electric vehicle sales platform across 10 EU markets, reaching an impacted logistics population of over 150,000. Integrated national lead enrichment registries, multi-language RAG argumentation, and ESG pipelines on 15+ AWS CDK stacks. 95% prompt extraction accuracy; 94% test coverage.
+- **ITI / LARSyS** — Led solo development of multi-language, multi-modal agentic LLM apps for a 6-country industry-academic consortium. 100+ users, 70+ research participants, Springer Nature paper.
+- **Stealth AI Startup (Técnico Lisboa Spin-off)** — Sole AI architect; 6 AI PoCs to production MVPs in 6 months; post-pivot MVP achieved strongest commercial traction to date.
+- **Mystic Community CRL** — Designed an automated sales pipeline and event platform for an international cultural cooperative (440+ members, 5k+ reach).
 
 ---
 
