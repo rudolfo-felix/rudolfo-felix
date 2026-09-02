@@ -2,7 +2,7 @@
 
 **Lead AI Engineer & Architect** based in Cascais, Portugal.
 
-I design and build reliable AI systems from agentic pipelines and RAG architectures to full-stack GenAI applications at the intersection of technology, governance, and ecological impact.
+I design and build reliable AI systems — from agentic pipelines and RAG architectures to full-stack GenAI applications — at the intersection of technology, governance, and ecological impact.
 
 ---
 
@@ -38,8 +38,7 @@ I design and build reliable AI systems from agentic pipelines and RAG architectu
 
 - **Capgemini x Volkswagen** — Production GenAI commercial electric vehicle sales platform across 10 EU markets, reaching an impacted logistics population of over 150,000. Integrated national lead enrichment registries, multi-language RAG argumentation, and ESG pipelines on 15+ AWS CDK stacks. 95% prompt extraction accuracy; 94% test coverage.
 - **ITI / LARSyS** — Led solo development of multi-language, multi-modal agentic LLM apps for a 6-country industry-academic consortium. 100+ users, 70+ research participants, Springer Nature paper.
-- **Stealth AI Startup (Técnico Lisboa Spin-off)** — Sole AI architect; 6 AI PoCs to production MVPs in 6 months; post-pivot MVP achieved strongest commercial traction to date.
-- **Mystic Community CRL** — Designed an automated sales pipeline and event platform for an international cultural cooperative (440+ members, 5k+ reach).
+- **Stealth AI Startup (Técnico Lisboa Spin-off)** — Sole AI architect; 2 PoCs to production MVP in 6 months; post-pivot MVP achieved strongest commercial traction to date.
 
 ---
 
