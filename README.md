@@ -2,7 +2,7 @@
 
 **Lead AI Engineer & Architect** based in Cascais, Portugal.
 
-I design and build reliable AI systems — from agentic pipelines and RAG architectures to full-stack GenAI applications — at the intersection of technology, governance, and ecological impact.
+I design and build reliable AI systems from agentic pipelines and RAG architectures to full-stack GenAI applications at the intersection of technology, governance, and ecological impact.
 
 ---
 
