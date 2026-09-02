@@ -1,6 +1,6 @@
 # Hi, I'm Rudolfo Félix 👋
 
-**Lead AI Engineer & Data Scientist** based in Cascais, Portugal.
+**Lead AI Engineer & Architect** based in Cascais, Portugal.
 
 I design and build reliable AI systems — from agentic pipelines and RAG architectures to full-stack GenAI applications — at the intersection of technology, governance, and ecological impact.
 
@@ -16,13 +16,14 @@ I design and build reliable AI systems — from agentic pipelines and RAG archit
 
 ---
 
-## 🧠 Tech stack
+## 🧠 Tech Stack
 
-`Python` `LangChain` `LangGraph` `LlamaIndex` `Claude` `OpenAI` `AWS Bedrock`  
-`RAG` `RAGAS` `LangFuse` `Crawl4AI` `Pydantic` `FastAPI`  
-`AWS CDK` `ECS` `Lambda` `S3` `SQS` `DynamoDB` `Docker`  
-`Supabase` `PostgreSQL/pgvector` `Neo4j` `ChromaDB`  
-`TypeScript` `Svelte` `React` `Node.js`
+- **Languages:** `Python` `TypeScript` `SQL` `Node.js`
+- **GenAI & Agentic Systems:** `LangGraph` `LangChain` `LlamaIndex` `Claude` `OpenAI`
+- **LLMOps & Tooling:** `RAGAS` `LangFuse` `Crawl4AI` `Pydantic`
+- **Data & Vector Stores:** `Neo4j` `pgvector` `ChromaDB` `Supabase`
+- **Cloud (AWS) & DevOps:** `CDK` `ECS` `Lambda` `Bedrock` `DynamoDB` `Docker`
+- **Frontend Frameworks:** `Svelte` `React`
 
 ---
 
@@ -35,7 +36,7 @@ I design and build reliable AI systems — from agentic pipelines and RAG archit
 
 ## 🌍 Selected work
 
-- **VW x Capgemini** — Production GenAI sales platform across 7 EU markets (GB, DE, BE, FR, IT, ES, PL): 5 national lead enrichment registry integrations, multi-language RAG argumentation, ESG pipelines on 15+ AWS CDK stacks. 95.2% prompt extraction completeness; 94% test coverage.
+- **Capgemini x Volkswagen** — Production GenAI commercial EV sales platform across 7 EU markets (GB, DE, BE, FR, IT, ES, PL): 5 national lead enrichment registry integrations, multi-language RAG argumentation, ESG pipelines on 15+ AWS CDK stacks. 95.2% prompt extraction completeness; 94% test coverage.
 - **ITI / LARSyS** — Led solo development of multi-language, multi-modal agentic LLM apps for a 6-country industry-academic consortium (PT, NL, SE, DE, BE, IT). 100+ users, 70+ research participants, Springer Nature paper.
 - **AI-first startup** (Técnico Lisboa Spin-off, stealth) — Sole AI architect; 2 PoCs to production MVP in 6 months; post-pivot MVP achieved strongest commercial traction to date.
 
